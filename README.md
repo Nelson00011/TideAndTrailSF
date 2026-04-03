@@ -1,9 +1,10 @@
 <h1 align="center">Loveable Application</h1>
 
-`main image`
+<a align="center" href="" ><img src="./screenShot/SanFranciscoTrekkingApp.jpg"></img></a>
 
 ## Description:
-Outline for general FULLSTACK DEVELOPMENT PROJECTs
+Loveable: Built a coastal dashboard with a deep ocean-themed design featuring tide charts (Recharts), current tide status cards, and 6 real SF hiking trails with tide-impact indicators. Trails like Lands End, Mile Rock Beach, and Battery to Bluffs are flagged as tide-dependent with recommended tide windows.
+
 
 ## Technology Stack
 - **Frontend/Client:** React.js, HTML5, CSS, framework, etc.
@@ -102,9 +103,9 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 `<examples below>`
 - **PostMan** for API Tests [here](https://www.postman.com/)
     - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
-    - jwt Debugger [here](https://jwt.io/#debugger-io)
-- **React.New** allows for testing new React projects [here](react.new)
-- [bcrypt.js](https://www.npmjs.com/package/bcryptjs) part of password hasing for user Authentification. 
+- **Loveable** allows for website building [here](https://lovable.dev/dashboard?utm_device=c&utm_source=google&utm_medium=paid_search_branded&utm_campaign=google-us-b2c-prospecting-evergreen-subscription-US+-+Search+-+Lovable+-+CORE&campaignid=23072209374&gad_source=1&gad_campaignid=23072209374&gbraid=0AAAAA-iIxGdzJGcICe6xQlPapgap4Rn7e&gclid=Cj0KCQjwyr3OBhD0ARIsALlo-Om80pOY95zkaLzAgygqIFMminzutonqs0_rHHQbhTX3sL4NOrOhB9kaAhIYEALw_wcB)
+    - The file can be downloaded which is better than Claude, which requires a higher level of customer level to download it. 
+
 
 
 #### **style:** 
