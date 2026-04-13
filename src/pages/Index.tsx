@@ -3,6 +3,7 @@ import heroImage from "@/assets/sf-coast-hero.jpg";
 import TideChart from "@/components/TideChart";
 import TideStatus from "@/components/TideStatus";
 import TrailCard from "@/components/TrailCard";
+import WeatherCard from "@/components/WeatherCard";
 import { hikingTrails } from "@/data/tides";
 
 const Index = () => {
@@ -37,6 +38,7 @@ const Index = () => {
       <div className="max-w-6xl mx-auto px-4 md:px-8 -mt-4 pb-16 space-y-6">
         <TideStatus />
         <TideChart />
+        <WeatherCard />
 
         {/* Tide-Affected Trails */}
         <div>
