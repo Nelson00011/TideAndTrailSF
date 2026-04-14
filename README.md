@@ -1,6 +1,6 @@
 <h1 align="center">Loveable Application</h1>
 
-<a align="center" href="" ><img src="./screenShot/SanFranciscoTrekkingApp.jpg"></img></a>
+<a align="center" href="" ><img src="./screenShot/SanFranciscoTrekkingAppWeather.jpg"></img></a>
 
 ## Description:
 Loveable: Built a coastal dashboard with a deep ocean-themed design featuring tide charts (Recharts), current tide status cards, and 6 real SF hiking trails with tide-impact indicators. Trails like Lands End, Mile Rock Beach, and Battery to Bluffs are flagged as tide-dependent with recommended tide windows.
