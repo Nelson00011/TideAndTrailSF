@@ -5,7 +5,7 @@
 ## Description:
 Loveable: Built a coastal dashboard with a deep ocean-themed design featuring tide charts (Recharts), current tide status cards, and 6 real SF hiking trails with tide-impact indicators. Trails like Lands End, Mile Rock Beach, and Battery to Bluffs are flagged as tide-dependent with recommended tide windows. API to weather, coastal tides and hiking trails:
 
-    - Client side (frontend) utilizes **React.tsx** in combination with **Tailwinds** create a natural theme for hiking and tide charts. 
+- Client side (frontend) utilizes **React.tsx** in combination with **Tailwinds** create a natural theme for hiking and tide charts. 
 
 ## Technology Stack
 - **Frontend/Client:** React.js, HTML5, CSS, Trailwind
