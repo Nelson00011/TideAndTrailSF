@@ -34,6 +34,9 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
 - **Loveable** allows for website building [here](https://lovable.dev/dashboard?utm_device=c&utm_source=google&utm_medium=paid_search_branded&utm_campaign=google-us-b2c-prospecting-evergreen-subscription-US+-+Search+-+Lovable+-+CORE&campaignid=23072209374&gad_source=1&gad_campaignid=23072209374&gbraid=0AAAAA-iIxGdzJGcICe6xQlPapgap4Rn7e&gclid=Cj0KCQjwyr3OBhD0ARIsALlo-Om80pOY95zkaLzAgygqIFMminzutonqs0_rHHQbhTX3sL4NOrOhB9kaAhIYEALw_wcB)
     - The file can be downloaded which is better than Claude, which requires a higher level of customer level to download it. 
+    - I love the fact that Loveable generated these amazing icons that can be used for the weather. The API generation is great, just a couple things on the backend that would be nice to brush up. Great for generic applications:
+
+    <a align="center" href="" ><img src="./screenShot/WeatherLoveableIcons.jpg"></img></a>
 
 
 #### **style:** 
