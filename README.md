@@ -1,4 +1,4 @@
-<h1 align="center">Loveable Application</h1>
+<h1 align="center">Tide And Trail San Francisco</h1>
 
 <a align="center" href="" ><img src="./screenShot/SanFranciscoTrekkingAppWeather.jpg"></img></a>
 
