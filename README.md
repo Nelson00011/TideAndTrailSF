@@ -7,7 +7,7 @@ Loveable: Built a coastal dashboard with a deep ocean-themed design featuring ti
 
 ## Technology Stack
 - **Frontend/Client:** React.js, HTML5, CSS, Trailwind, etc...
-- **API:** Toast, Open-meteo, Hiker API
+- **API:** Toast, Open-meteo, Hiker, NOAA Tides
 - **Backend/Server:** node.js/express, vite, etc...
 
 <h2 align="center">Video:</h2>
@@ -37,7 +37,17 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - I love the fact that Loveable generated these amazing icons that can be used for the weather. The API generation is great, just a couple things on the backend that would be nice to brush up. Great for generic applications, will grab for other projects
     - Toast API [overview](https://doc.toasttab.com/doc/devguide/apiOverview.html) 
     - Tailwind design core themes [documentation](https://tailwindcss.com/docs/responsive-design)
-    - Weather Data API [open source](https://open-meteo.com/en/docs), variables included in main page. Government data listed as references as well. 
+    - Tide Charts and API calls vary by pricing:
+        - NOAA Tides and Currents (.gov) is public [data](https://api.tidesandcurrents.noaa.gov/api/prod/)
+        - Global [tides](https://stormglass.io/global-tide-api/) for less than 10 calls per day is free, upgrate for more. 
+        - WorldTides™ API [Documentation](https://www.worldtides.info/apidocs); provides tidal information for any location in the world. You can call it via a GET or POST request via http or https. Depending on the query, it will return:
+            - the calculated heights at a certain time
+            - the times and heights of low tide and high tide
+            - a graph of the tide for 1 to 7 days (new in v2)
+            - various vertical datums (height reference levels)
+            - a list of stations in a specific area
+            - the coordinates of the closest point for which tidal information is available. (Note: If there is no location within a degree of latitude and longitude, then an error is returned).
+        - Weather Data API [open source](https://open-meteo.com/en/docs), variables included in main page. Government data listed as references as well. 
         - Would recommend for future useage that is compatible with icons below: 
 
           <a align="center" href="" ><img src="./screenShot/WeatherLoveableIcons.jpg"></img></a>
